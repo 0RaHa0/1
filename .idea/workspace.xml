@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01c686d2-f5ee-46a1-a91b-bae0896db89a" name="Changes" comment="point and Shape">
-      <change beforePath="$PROJECT_DIR$/src/MyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyApplication.java" afterDir="false" />
-    </list>
+    <list default="true" id="01c686d2-f5ee-46a1-a91b-bae0896db89a" name="Changes" comment="Applicatoin" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703435876715</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Applicatoin">
+      <option name="closed" value="true" />
+      <created>1703437959437</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703437959437</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +158,7 @@
     <MESSAGE value="added" />
     <MESSAGE value="Point 1" />
     <MESSAGE value="point and Shape" />
-    <option name="LAST_COMMIT_MESSAGE" value="point and Shape" />
+    <MESSAGE value="Applicatoin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Applicatoin" />
   </component>
 </project>
