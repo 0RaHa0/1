@@ -1,5 +1,5 @@
 package models;
-// 2D point representation
+// 2D point representation.
 public class Point {
     private double x;
     private double y;

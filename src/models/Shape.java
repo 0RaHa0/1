@@ -2,7 +2,7 @@
 package models;
 
 import java.util.ArrayList;
-// Represents a shape formed by points
+// Represents a shape formed by points.
 public class Shape {
     private ArrayList<Point> points; // List of points forming the shape
     // Constructor: creates a shape with given points
