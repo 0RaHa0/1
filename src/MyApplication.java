@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 public class MyApplication {
     public static void main(String[] args) {
-        // Read coordinates from file.
+        // Read coordinates from file
         Point[] points = readPointsFromFile("coordinates.txt");
 
         // Create a shape with the read points
