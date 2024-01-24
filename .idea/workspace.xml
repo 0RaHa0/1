@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01c686d2-f5ee-46a1-a91b-bae0896db89a" name="Changes" comment="finalized code 2.1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="01c686d2-f5ee-46a1-a91b-bae0896db89a" name="Changes" comment="finalized code 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +49,6 @@
     <attachedChunks>
       <set>
         <option value="jdk-21.0.1-openjdk-21.0.1-249ae16d76d6-a618e4d4" />
-        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
         <option value="jdk-21.0.1-openjdk-21.0.1-8336523bb0d9-657b72ed" />
       </set>
     </attachedChunks>
@@ -177,31 +174,7 @@
       <option name="project" value="LOCAL" />
       <updated>1703605995839</updated>
     </task>
-    <task id="LOCAL-00015" summary="finalized code 1">
-      <option name="closed" value="true" />
-      <created>1703606981422</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1703606981422</updated>
-    </task>
-    <task id="LOCAL-00016" summary="finalized code 2,0">
-      <option name="closed" value="true" />
-      <created>1703607100771</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1703607100771</updated>
-    </task>
-    <task id="LOCAL-00017" summary="finalized code 2.1">
-      <option name="closed" value="true" />
-      <created>1703687369418</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1703687369418</updated>
-    </task>
-    <option name="localTasksCounter" value="18" />
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -213,8 +186,6 @@
     <MESSAGE value="Applicatoin" />
     <MESSAGE value="finalized code" />
     <MESSAGE value="finalized code 1" />
-    <MESSAGE value="finalized code 2,0" />
-    <MESSAGE value="finalized code 2.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="finalized code 2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalized code 1" />
   </component>
 </project>
